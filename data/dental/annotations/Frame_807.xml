@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Frame_807.jpg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Central Incisor</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1467</xmin>
+			<xmax>1797</xmax>
+			<ymin>287</ymin>
+			<ymax>794</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Central Incisor</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1145</xmin>
+			<xmax>1467</xmax>
+			<ymin>296</ymin>
+			<ymax>799</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lateral Incisor</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1800</xmin>
+			<xmax>1920</xmax>
+			<ymin>258</ymin>
+			<ymax>790</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lateral Incisor</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>869</xmin>
+			<xmax>1147</xmax>
+			<ymin>305</ymin>
+			<ymax>869</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Canine</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>604</xmin>
+			<xmax>869</xmax>
+			<ymin>278</ymin>
+			<ymax>921</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1st Premolar</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>421</xmin>
+			<xmax>633</xmax>
+			<ymin>303</ymin>
+			<ymax>774</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>2nd Premolar</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>301</xmin>
+			<xmax>466</xmax>
+			<ymin>344</ymin>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1st Molar</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>135</xmin>
+			<xmax>335</xmax>
+			<ymin>332</ymin>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>2nd Molar</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>156</xmin>
+			<xmax>443</xmax>
+			<ymin>174</ymin>
+			<ymax>332</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>3rd Molar</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>203</xmin>
+			<xmax>389</xmax>
+			<ymin>99</ymin>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

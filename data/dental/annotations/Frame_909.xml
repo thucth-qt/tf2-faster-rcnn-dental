@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Frame_909.jpg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Central Incisor</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>826</xmin>
+			<xmax>1231</xmax>
+			<ymin>328</ymin>
+			<ymax>799</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Central Incisor</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>436</xmin>
+			<xmax>828</xmax>
+			<ymin>357</ymin>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lateral Incisor</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1231</xmin>
+			<xmax>1512</xmax>
+			<ymin>301</ymin>
+			<ymax>744</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lateral Incisor</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>212</xmin>
+			<xmax>434</xmax>
+			<ymin>364</ymin>
+			<ymax>772</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Canine</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1512</xmin>
+			<xmax>1772</xmax>
+			<ymin>271</ymin>
+			<ymax>731</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Canine</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>40</xmin>
+			<xmax>210</xmax>
+			<ymin>369</ymin>
+			<ymax>828</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1st Premolar</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1772</xmin>
+			<xmax>1920</xmax>
+			<ymin>344</ymin>
+			<ymax>695</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1st Premolar</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>43</xmax>
+			<ymin>480</ymin>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+</annotation>

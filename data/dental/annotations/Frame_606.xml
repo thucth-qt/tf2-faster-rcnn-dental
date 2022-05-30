@@ -1,0 +1,69 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>Frame_606.jpg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Central Incisor</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1066</xmin>
+			<xmax>1596</xmax>
+			<ymin>202</ymin>
+			<ymax>829</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Central Incisor</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>541</xmin>
+			<xmax>1064</xmax>
+			<ymin>250</ymin>
+			<ymax>823</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lateral Incisor</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>1593</xmin>
+			<xmax>1919</xmax>
+			<ymin>229</ymin>
+			<ymax>798</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lateral Incisor</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>217</xmin>
+			<xmax>541</xmax>
+			<ymin>261</ymin>
+			<ymax>770</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Canine</name>
+		<pose/>
+		<truncated/>
+		<difficult/>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>217</xmax>
+			<ymin>336</ymin>
+			<ymax>890</ymax>
+		</bndbox>
+	</object>
+</annotation>

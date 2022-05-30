@@ -1,0 +1,4 @@
+**/__pycache__
+data/cache/*
+model/logs
+model/vcc16.h5
